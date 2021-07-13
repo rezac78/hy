@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: gold;
+    font-size: 10em;
+    font-weight: initial;
+}
+
+.box{
+    text-align: center;
+    display: flex;
+    border: 2px solid white;
+    width: 50%;
+    position: relative;
+    left: 20%;
+    margin-top: 50px;
+}
+.time{
+    margin-left: 100px;
+}
+.box2{
+    text-align: center;
+    display: flex;
+    border: 2px solid white;
+}
